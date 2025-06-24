@@ -1,10 +1,5 @@
 # MP Report
 
-## Team
-
-- Name(s): Naman Rajendra Jangid
-- AID(s): A20527772
-
 ## Self-Evaluation Checklist
 
 Tick the boxes (i.e., fill them with 'X's) that apply to your submission:
